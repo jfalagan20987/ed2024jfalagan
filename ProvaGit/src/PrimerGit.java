@@ -5,6 +5,9 @@ public class PrimerGit {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hola");
+		//New update
+		
+		System.out.println("Hola Món!");
 		
 	}
 
